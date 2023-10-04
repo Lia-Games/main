@@ -10,6 +10,7 @@
   border: 5px outset black;
   color: black;
   font-family: serif;
+  text-indent: 10px;
 }
 
 .FNGame {
@@ -41,8 +42,10 @@
 }
 
 .gamesHeader {
+  position: relative;
   font-size: 30px;
   font-family: sans;
+  left: 10px;
 }
 
 .GTGame {
