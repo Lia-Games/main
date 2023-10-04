@@ -5,5 +5,5 @@ if(document.referrer != "https://ahlyialogin.github.io/"){
 }
 
 function fruitButton(){
-  window.locaion.href = "https://google.com/";
+  alert('RAHHHH');
 }
