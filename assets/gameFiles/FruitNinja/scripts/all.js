@@ -26,6 +26,11 @@ void function(global){
 /**
  * @source D:\hosting\demos\fruit-ninja\output\scripts\collide.js
  */ 
+
+function homeButtonPressed(){
+	window.location.href = "https://lia-games.github.io/"
+}
+
 define("scripts/collide.js", function(exports){
 	var fruit = require("scripts/factory/fruit");
 	var Ucren = require("scripts/lib/ucren");
