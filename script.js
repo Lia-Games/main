@@ -1,9 +1,9 @@
 if(document.referrer != "https://ahlyialogin.github.io/"){
-  if(document.referrer != "https://lia-games.githu.io/assets/fruitninja/index.html"){
+  if(document.referrer != "https://lia-games.githu.io/assets/gamefiles/fruitninja/index.html"){
     window.location.href = "https://ahlyialogin.github.io/";
   }
 }
 
 function fruitButton(){
-  alert('RAHHHH');
+  window.location.href = "https://lia-games.github.io/assets/gamefiles/fruitninja/index.html";
 }
