@@ -27,8 +27,8 @@ void function(global){
  * @source D:\hosting\demos\fruit-ninja\output\scripts\collide.js
  */ 
 
-function homeButtonPressed(){
-	window.location.href = "https://lia-games.github.io/"
+function homeButtonClicked(){
+	window.location.href = "https://lia-games.github.io/main/"
 }
 
 define("scripts/collide.js", function(exports){
