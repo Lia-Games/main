@@ -5,5 +5,5 @@ if(document.referrer != "https://ahlyialogin.github.io/"){
 }
 
 function fruitButton(){
-  window.location.href = "https://lia-games.github.io/main/assets/gamefiles/fruitninja/";
+  window.location.href = "https://lia-games.github.io/main/assets/gameFiles/FruitNinja/";
 }
