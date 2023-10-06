@@ -10,3 +10,7 @@ function cookieButton(){
 function ruffleButton(){
   window.location.href = "https://lia-games.github.io/main/assets/gameFiles/RuffleEm/";
 }
+
+function ctrButton(){
+  window.location.href = "https://lia-games.github.io/main/assets/gameFiles/CutTheRope/";
+}
