@@ -14,3 +14,7 @@ function ruffleButton(){
 function ctrButton(){
   window.location.href = "https://lia-games.github.io/main/assets/gameFiles/CutTheRope/";
 }
+
+function swcButton(){
+  window.location.href = "https://lia-games.github.io/main/assets/gameFiles/SmallWorldCup/";
+}
